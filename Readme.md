@@ -1,8 +1,8 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей](https://up.htmlacademy.ru/htmlcss-individual/2/user/2668735).
-* Наставник: [Виктория Никитина] (https://htmlacademy.ru/profile/id1217273).
-* Ссылка на проект: (https://cyberia77.github.io/2668735-sedona-2/)
+* Наставник: [Виктория Никитина](https://htmlacademy.ru/profile/id1217273).
+* Ссылка на проект: https://cyberia77.github.io/2668735-sedona-2/
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
